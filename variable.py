@@ -1,5 +1,6 @@
-name="dev"
-print(name)
+import os
+os.system('clear')
 
-n = 1234
-print(n)
+name="Dev"
+
+print(name)
