@@ -25,11 +25,11 @@ tulples=("John","Dev","ld")
 print(tulples[1])
 
 #dictionary
-fav_number={
-    "John":19,
-    "dev":12,
-    "jeni":13
-}
-print(fav_number["dev"])
+# fav_number={
+#     "John":19,
+#     "dev":12,
+#     "jeni":13
+# }
+# print(fav_number["dev"])
 
 
